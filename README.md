@@ -1,2 +1,2 @@
 # HYSJ-Audit platform
-this is sample-pages
+this is simple-pages
